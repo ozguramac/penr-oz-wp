@@ -1,6 +1,6 @@
 # penr-oz-wp
 
-Penr-oz Wordpress in Docker running in docker cloud swarm hosted on AWS EC2. Please visit [here](http://www.aylinkentkur.com)
+Penr-oz Wordpress in Docker running in cloud. Please visit [here](http://www.aylinkentkur.com)
 
 ### What is this repository for? ###
 
